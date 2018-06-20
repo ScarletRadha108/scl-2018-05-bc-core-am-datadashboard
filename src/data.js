@@ -1,4 +1,5 @@
 
+
 window.computeUsersStats = (users,progress,courses) =>{
   
 
@@ -14,3 +15,4 @@ window.processCohortData =(options) =>{
 
 };
 }
+
